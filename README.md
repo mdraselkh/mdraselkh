@@ -3,7 +3,21 @@
 ## Greetings! 👋, I'm Md Rasel
 ### A passionate frontend developer from Dhaka, Bangladesh
 
-<h3>I am a versatile frontend developer with a prowess in building dependable and imaginative in web application. My extensive skill set in front-end and back-end programming allows me to tackle a variety of tasks with accuracy and effectiveness. With frameworks like TailwindCSS and Bootstrap, I specialize in creating engaging user experiences on the front end utilizing HTML, CSS, and JavaScript. Delivering interfaces that captivate and excite people is my commitment, whether it is through responsive layout design, performance optimization, or accessibility assurance. In the back end, I've worked with server-side technologies like PHP and databases like MySQL and SQL Server for a long time. I can help you get results by streamlining your online presence, whether it's through WordPress theme development, plugin customization, or website optimization. I guarantee optimal performance and user pleasure since I have a strong analytical mentality and a love for problem-solving.</p> -🪄 My passion is providing clients with happiness -👨‍💻 love to write fresh and understandable program code -🍀 Like to share my knowledge ## 🤹Skills & Competencies: ✅ HTML5/CSS3✅ JavaScript✅ Tailwind CSS/ Bootstrap ✅ PHP ✅ Java/Python ✅ WordPress ✅ UI/UX design</h3>
+<h5>I am a versatile frontend developer with a prowess in building dependable and imaginative in web application. My extensive skill set in front-end and back-end programming allows me to tackle a variety of tasks with accuracy and effectiveness. With frameworks like TailwindCSS and Bootstrap, I specialize in creating engaging user experiences on the front end utilizing HTML, CSS, and JavaScript. Delivering interfaces that captivate and excite people is my commitment, whether it is through responsive layout design, performance optimization, or accessibility assurance. In the back end, I've worked with server-side technologies like PHP and databases like MySQL and SQL Server for a long time. I can help you get results by streamlining your online presence, whether it's through WordPress theme development, plugin customization, or website optimization. I guarantee optimal performance and user pleasure since I have a strong analytical mentality and a love for problem-solving.
+  
+-🪄 My passion is providing clients with happiness 
+-👨‍💻 love to write fresh and understandable program code 
+-🍀 Like to share my knowledge
+
+## 🤹Skills & Competencies: 
+✅ HTML5/CSS3
+✅ JavaScript
+✅ Tailwind CSS/ Bootstrap 
+✅ PHP 
+✅ Java/Python 
+✅ WordPress 
+✅ UI/UX design
+</h5>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraselkh&label=Profile%20views&color=0e75b6&style=flat" alt="mdraselkh" /> </p>
