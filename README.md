@@ -24,9 +24,9 @@ Besides, i have a strong interest in machine learning, natural language processi
 ✅ Python <br>
 ✅ WordPress <br>
 ✅ UI/UX design <br>
-✅ Machine learning and deep learning algorithm
-✅ Data Visualization
-✅ Data Preprocessing
+✅ Machine learning and deep learning algorithm <br>
+✅ Data Visualization <br>
+✅ Data Preprocessing <br>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraselkh&label=Profile%20views&color=0e75b6&style=flat" alt="mdraselkh" /> </p>
