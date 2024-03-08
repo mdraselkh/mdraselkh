@@ -1,15 +1,33 @@
-<h1 align="center">Hi 👋, I'm Md Rasel</h1>
-<h3 align="center">A passionate frontend developer from Dhaka, Bangladesh</h3>
+![I am a frontend developer](https://media.licdn.com/dms/image/D4D16AQHTZmtvAY5c0A/profile-displaybackgroundimage-shrink_350_1400/0/1687081099008?e=1715212800&v=beta&t=dDXBh7tMeOQx8Pw9fVwMxmBHHClfqN_yMiEF-zzTmlE)
+
+## Greetings! 👋, I'm Md Rasel
+### A passionate frontend developer from Dhaka, Bangladesh
+
+<p align="center> I am a versatile frontend developer with a prowess in building dependable and imaginative in web application. My extensive skill set in front-end and back-end programming allows me to tackle a variety of tasks with accuracy and effectiveness. With frameworks like TailwindCSS and Bootstrap, I specialize in creating engaging user experiences on the front end utilizing HTML, CSS, and JavaScript. Delivering interfaces that captivate and excite people is my commitment, whether it is through responsive layout design, performance optimization, or accessibility assurance.
+In the back end, I've worked with server-side technologies like PHP and databases like MySQL and SQL Server for a long time. I can help you get results by streamlining your online presence, whether it's through WordPress theme development, plugin customization, or website optimization. I guarantee optimal performance and user pleasure since I have a strong analytical mentality and a love for problem-solving.</p>
+<p>
+ -🪄 My passion is providing clients with happiness <br>
+ -👨‍💻 love to write fresh and understandable program code <br>
+ -🍀 Like to share my knowledge <br>
+  </p>
+
+## 🤹Skills & Competencies:
+✅ HTML5/CSS3 <br>
+✅ JavaScript <br>
+✅ Tailwind CSS/ Bootstrap <br>
+✅ PHP <br>
+✅ Java <br>
+✅ WordPress  <br>
+✅ UI/UX design <br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraselkh&label=Profile%20views&color=0e75b6&style=flat" alt="mdraselkh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdraselkh" alt="mdraselkh" /></a> </p>
 
 - 🔭 I’m currently working on **an Android project named Wallet Care. It is not over yet.**
 
 - 🌱 I’m currently learning **JavaScript and UI/UX design**
 
-<h3 align="left">Connect with me:</h3>
+## 🍵Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/md-raselkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-raselkhan" height="30" width="40" /></a>
 <a href="https://fb.com/rashel.khan.399041" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rashel.khan.399041" height="30" width="40" /></a>
@@ -22,6 +40,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdraselkh&show_icons=true&locale=en&layout=compact" alt="mdraselkh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdraselkh&show_icons=true&locale=en" alt="mdraselkh" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdraselkh" alt="mdraselkh" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdraselkh&" alt="mdraselkh" /></p>
 
