@@ -1,9 +1,12 @@
 ![I am a frontend developer](https://media.licdn.com/dms/image/D4D16AQHTZmtvAY5c0A/profile-displaybackgroundimage-shrink_350_1400/0/1687081099008?e=1715212800&v=beta&t=dDXBh7tMeOQx8Pw9fVwMxmBHHClfqN_yMiEF-zzTmlE)
 
 ## Greetings! 👋, I'm Md Rasel
-### A passionate frontend developer from Dhaka, Bangladesh
+### A passionate frontend developer and machine learning engineer
 
-<p>I am a versatile frontend developer with a prowess in building dependable and imaginative in web application. My extensive skill set in front-end and back-end programming allows me to tackle a variety of tasks with accuracy and effectiveness. With frameworks like TailwindCSS and Bootstrap, I specialize in creating engaging user experiences on the front end utilizing HTML, CSS, and JavaScript. Delivering interfaces that captivate and excite people is my commitment, whether it is through responsive layout design, performance optimization, or accessibility assurance. In the back end, I've worked with server-side technologies like PHP and databases like MySQL and SQL Server for a long time. I can help you get results by streamlining your online presence, whether it's through WordPress theme development, plugin customization, or website optimization. I guarantee optimal performance and user pleasure since I have a strong analytical mentality and a love for problem-solving.</p>
+<p>I am a versatile frontend developer with a prowess in building dependable and imaginative in web application. My extensive skill set in front-end and back-end programming allows me to tackle a variety of tasks with accuracy and effectiveness. With frameworks like TailwindCSS and Bootstrap, I specialize in creating engaging user experiences on the front end utilizing HTML, CSS, and JavaScript. Delivering interfaces that captivate and excite people is my commitment, whether it is through responsive layout design, performance optimization, or accessibility assurance. In the back end, I've worked with server-side technologies like PHP and databases like MySQL for a long time. I can help you get results by streamlining your online presence, whether it's through WordPress theme development, plugin customization, or website optimization. 
+
+Besides, i have a strong interest in machine learning, natural language processing and computer vision. I would love to work as a machine learning engineer because i have completed two projects with natural language processing and a machine learning project on time series analysis (Thesis) during my last semester and i enjoyed to do that. I have proficiency in machine learning and deep learning algorithm. I guarantee optimal performance and user pleasure since I have a strong analytical mentality and a love for problem-solving.
+</p>
 
 <p>
 🪄 My passion is providing clients with happiness <br>
@@ -17,10 +20,13 @@
 ✅ JavaScript <br>
 ✅ Tailwind CSS/ Bootstrap <br>
 ✅ PHP <br>
-✅ Java/Python <br>
+✅ Java <br>
+✅ Python <br>
 ✅ WordPress <br>
 ✅ UI/UX design <br>
-
+✅ Machine learning and deep learning algorithm
+✅ Data Visualization
+✅ Data Preprocessing
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdraselkh&label=Profile%20views&color=0e75b6&style=flat" alt="mdraselkh" /> </p>
