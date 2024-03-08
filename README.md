@@ -27,7 +27,7 @@
 
 - 🔭 I’m currently working on **an Android project named Wallet Care. It is not over yet.**
 
-- 🌱 I’m currently learning **JavaScript and UI/UX design**
+- 🌱 I’m currently learning **JavaScript, ReactJs and UI/UX design**
 
 ## 🍵Connect with me:
 <p align="left">
