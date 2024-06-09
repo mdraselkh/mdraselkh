@@ -3,7 +3,7 @@
 ## Greetings! 👋, I'm Md Rasel
 ### A passionate frontend developer and machine learning engineer
 
-<p>I am a versatile frontend developer with a prowess in building dependable and imaginative in web application. My extensive skill set in front-end and back-end programming allows me to tackle a variety of tasks with accuracy and effectiveness. With frameworks like TailwindCSS and Bootstrap, I specialize in creating engaging user experiences on the front end utilizing HTML, CSS, and JavaScript. Delivering interfaces that captivate and excite people is my commitment, whether it is through responsive layout design, performance optimization, or accessibility assurance. In the back end, I've worked with server-side technologies like PHP and databases like MySQL for a long time. I can help you get results by streamlining your online presence, whether it's through WordPress theme development, plugin customization, or website optimization. 
+<p>I am a versatile frontend developer with a prowess in building dependable and imaginative in web application. My extensive skill set in front-end and back-end programming allows me to tackle a variety of tasks with accuracy and effectiveness. With frameworks like TailwindCSS and Bootstrap and React JavaScript library, I specialize in creating engaging user experiences on the front end utilizing HTML, CSS, and JavaScript. Delivering interfaces that captivate and excite people is my commitment, whether it is through responsive layout design, performance optimization, or accessibility assurance. In the back end, I've worked with server-side technologies like PHP and databases like MySQL for a long time. I can help you get results by streamlining your online presence, whether it's through WordPress theme development, plugin customization, or website optimization. 
 
 Besides, i have a strong interest in machine learning, natural language processing and computer vision. I would love to work as a machine learning engineer because i have completed two projects with natural language processing and a machine learning project on time series analysis (Thesis) during my last semester and i enjoyed to do that. I have proficiency in machine learning and deep learning algorithm. I guarantee optimal performance and user pleasure since I have a strong analytical mentality and a love for problem-solving.
 </p>
@@ -19,8 +19,8 @@ Besides, i have a strong interest in machine learning, natural language processi
 ✅ HTML5/CSS3 <br>
 ✅ JavaScript <br>
 ✅ Tailwind CSS/ Bootstrap <br>
-✅ PHP <br>
-✅ Java <br>
+✅ PHP with MySQL <br>
+✅ React Js <br>
 ✅ Python <br>
 ✅ WordPress <br>
 ✅ UI/UX design <br>
