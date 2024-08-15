@@ -1,4 +1,4 @@
-![I am a frontend developer](https://raw.githubusercontent.com/mdraselkh/mdraselkh/blob/main/portfolio1.png)
+![portfolio1](https://github.com/user-attachments/assets/7194c264-0a96-4e89-9eb7-8e3c152cfd5b)
 
 ## Greetings! 👋, I'm Md Rasel
 ### A passionate frontend developer and machine learning engineer
