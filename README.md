@@ -22,8 +22,6 @@ Besides, i have a strong interest in machine learning, natural language processi
 ✅ PHP with MySQL <br>
 ✅ React Js <br>
 ✅ Python <br>
-✅ WordPress <br>
-✅ UI/UX design <br>
 ✅ Machine learning and deep learning algorithm <br>
 ✅ Data Visualization <br>
 ✅ Data Preprocessing <br>
@@ -33,7 +31,7 @@ Besides, i have a strong interest in machine learning, natural language processi
 
 - 🔭 I’m currently working on **an Android project named Wallet Care. It is not over yet.**
 
-- 🌱 I’m currently learning **JavaScript, ReactJs and UI/UX design**
+- 🌱 I’m currently learning **ReactJs, NextJs and Postgresql**
 
 ## 🍵Connect with me:
 <p align="left">
